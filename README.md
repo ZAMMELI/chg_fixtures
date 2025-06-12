@@ -1,2 +1,2 @@
 # chg_fixtures
-graphical interface to count number of changements of fixtures per day in industrial parc
+graphical interface (with Qt Designer) to count number of swap of fixtures per day in industrial parc.
